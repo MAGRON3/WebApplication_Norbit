@@ -9,7 +9,7 @@ using WebApplication_Norbit.Models;
 
 namespace WebApplication_Norbit.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("db/[controller]")]
     [ApiController]
     public class ProjectsController : ControllerBase
     {
